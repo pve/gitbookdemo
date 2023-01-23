@@ -7,7 +7,7 @@ A course on ethical hacking is designed to teach students how to identify and ex
 The learning goals for such a course might include the following:
 
 1. Understand the role of an ethical hacker and the principles of ethical hacking
-2. Develop an understanding of networking fundamentals and network security
+2. Develop an understanding of [networking fundamentals and network security](networking101.md)
 3. Become familiar with common vulnerabilities in operating systems and how to exploit them
 4. Learn about cryptography and encryption and how they can be used to protect systems and networks
 5. Understand malware and virus threats and how to protect against them
