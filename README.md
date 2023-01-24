@@ -1,9 +1,15 @@
 ---
-description: Version on Gitbook
+description: Intro to this site
 ---
 
-# Ethical Hacking Pentest
+# Main page
 
-Initially we focus this site on Ethical Hacking, which corresponds to Pentesting in the European Cyber Security Framework.
+Dutch / English
 
-![](<.gitbook/assets/enisa ecsf.png>)
+
+
+More text
+
+Companion to www.jointcyberrange.nl
+
+How to contribute
