@@ -1,5 +1,5 @@
 ---
-description: Intro to this site
+description: Open access learning content
 ---
 
 # Main page
@@ -8,7 +8,7 @@ Dutch / English
 
 
 
-More text
+More text to come
 
 Companion to www.jointcyberrange.nl
 
